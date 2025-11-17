@@ -136,9 +136,9 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş bir Notepad uygulama
 
 \*\*Fırat Yunus Yaşaroğlu\*\*
 
-GitHub: \https://github.com/firatysrgl
+GitHub: https://github.com/firatysrgl
 
-LinkedIn: \https://www.linkedin.com/in/fırat-yunus-yaşaroğlu
+LinkedIn: https://www.linkedin.com/in/fırat-yunus-yaşaroğlu
 
 
 
